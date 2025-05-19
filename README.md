@@ -21,7 +21,7 @@ This project visualizes educational attainment levels across the United States u
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/ugo-oliobi
+   git clone https://github.com/ugo-oliobi/Choropleth-Map
    ```
 
 2. Navigate into the project directory:
