@@ -36,6 +36,10 @@ This project visualizes educational attainment levels across the United States u
 
 The dataset used in this visualization comes from the United Education Data, providing information on the percentage of adults age 25 and older with a bachelor's degree or higher (2010-2014).
 
+## 📷 Screenshot
+
+![ShoppingCart Screenshot](./assets/image/choropleth_map.jpg)
+
 ## Usage
 
 - Hover over a county to see detailed educational attainment data.
